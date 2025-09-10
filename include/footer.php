@@ -50,6 +50,7 @@ echo'
                             <li><a href="'.SITE_URL.'contact">Contact Us</a></li>
                             <li><a href="'.SITE_URL.'categories">Donations</a></li>
                             <li><a href="'.SITE_URL.'team">Meet team</a></li>
+                            <li><a href="'.SITE_URL.'my-donations">My Donations</a></li>
                         </ul>
                         <ul>
                             <li><a href="'.SITE_URL.'projects">Projects</a></li>

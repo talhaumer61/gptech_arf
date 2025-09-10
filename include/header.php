@@ -46,6 +46,7 @@
                 -webkit-box-orient: vertical;  
                 overflow: hidden;
             }
+                
             .theme-btn-s7 {
                 display: inline-flex;
                 align-items: center;

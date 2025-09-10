@@ -502,7 +502,7 @@ img {
   color: #fff;
 }
 
-.theme-btn-s1 i, .theme-btn-s3 i, .theme-btn-s6 i, .theme-btn-s7 i {
+.theme-btn-s1 i, .theme-btn-s3 i, .theme-btn-s6 i {
   position: absolute;
   left: 20px;
   top: 13px;
@@ -614,16 +614,16 @@ img {
   border-color: #EE6237;
 }
 
-.theme-btn-s7 {
-  background-color: #EE6237;
-  border-color: #EE6237;
-  color: #fff;
-}
+  .theme-btn-s7 {
+    background-color: #EE6237;
+    border-color: #EE6237;
+    color: #fff;
+  }
 
-.theme-btn-s7:hover {
-  background-color: #b71d1a;
-  color: #fff;
-}
+  .theme-btn-s7:hover {
+    background-color: #b71d1a;
+    color: #fff;
+  }
 
 .theme-btn-s8, .theme-btn-s9, .theme-btn-s10 {
   font-family: "Jost", sans-serif;
@@ -9161,4 +9161,3 @@ h6 {
 .cursor-pointer {
   cursor: pointer;
 }
-

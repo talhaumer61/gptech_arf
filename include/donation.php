@@ -71,11 +71,14 @@ label{
                 <div class="section-title-s3">
                     <span>#Donation</span>
                     <h2>Donate to change lives!</h2>
-                    <p>'.SITE_BIO.'</p>
+                    <p>Join us in our journey as we work towards a Pakistan where compassion, dignity, and opportunity are available to all. Together, we can make a difference, one life at a time.</p>
                 </div>
             </div>
-            <div class="col-lg-12">
-                <h3>'.SITE_NAME.'</h3>
+            <div class="col-lg-12 text-center ">
+                <strong class="fw-bold" style="font-size:24px;">" مَنْ يُنفِقُ مَالَهُ فِي سَبِيلِ اللَّهِ فَيُعْطَى اللَّهُ لَهُ أَكْثَرَ مِنْهُ "</strong>
+                <p style="font-size:18px;">جو شخص اپنا مال اللہ کے راستے میں خرچ کرتا ہے، اللہ اسے اس سے زیادہ بدلہ دیتا ہے۔( صحیح بخاری 5352)</p>';
+                /*
+                echo'
                 <ul>';
                     $DonationSteps = get_DonationSteps();
                     foreach ($DonationSteps as $key => $value):
@@ -83,7 +86,9 @@ label{
                         <li style="font-size: 1.3rem;"><span class="text-danger">'.$key.':</span> '.$value.'</li>';
                     endforeach;
                     echo'
-                </ul>
+                </ul>';
+                */
+                echo'
             </div>
         </div>
 

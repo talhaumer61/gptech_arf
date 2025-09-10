@@ -73,8 +73,8 @@
 	define("SITE_EMAIL"				, "Apportionrfoundation@gmail.com");
 	define("SITE_ADDRESS"			, "Office # 483 1st Floor, Block 2 Sector B-II, Near Chandni Chowk, Township Lahore");
 	define("SITE_BIO"				, "Empowering society, reducing dependency & improving lives");
-	define("SITE_URL"	    	    , "https://arf.org.pk/");
-	define("ADMIN_URL"	    	    , "https://portal.arf.org.pk/");
+	define("SITE_URL"	    	    , "https://localhost/GPT/arf.org.pk/");
+	define("ADMIN_URL"	    	    , "https://localhost/GPT/portal.arf.org.pk");
 	define("COPY_RIGHTS"			, "Green Professional Technologies.");
 	define("COPY_RIGHTS_ORG"		, "&copy; ".date("Y")." - All Rights Reserved.");
 	define("COPY_RIGHTS_URL"		, "https://www.gptech.pk/");

@@ -120,6 +120,9 @@ else if ($control == "ARF-Privacy")
 }else if ($control == "donation") 
 {
     include("include/donation.php");
+}else if ($control == "my-donations") 
+{
+    include("include/my_donations.php");
 }
 else
 {
