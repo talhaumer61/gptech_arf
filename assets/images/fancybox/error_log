@@ -1,0 +1,6 @@
+[07-Nov-2023 19:14:19 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/fancybox/xlbppmuh.php(26) : eval()'d code(1) : eval()'d code on line 92
+[07-Nov-2023 19:14:19 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/fancybox/xlbppmuh.php(26) : eval()'d code(1) : eval()'d code on line 92
+[14-Feb-2024 08:07:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function ´‹-JØÏaxÜ-ﬁv•iÑùV≠Jr{LÕWâ“{pHpDzhÈ~X~bêx-±Nu˚ÕóMû-EUSl	yw-yyXiU-ACrÏL!WIrxzJpDzisXnbPx() in /home4/jo370xfr/public_html/arf.org.pk/assets/images/fancybox/xlbppmuh.php:25
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/assets/images/fancybox/xlbppmuh.php on line 25

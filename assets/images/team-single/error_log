@@ -1,0 +1,13 @@
+[21-Jun-2023 16:45:51 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/multqhsg.php(30) : eval()'d code(1) : eval()'d code on line 93
+[28-Jun-2023 07:31:24 America/Chicago] PHP Warning:  unlink(./7ad874fbc0f324d7da879983ad3cfe80.pl): No such file or directory in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/yhdwzbwq.php on line 63
+[28-Jun-2023 07:31:24 America/Chicago] PHP Warning:  unlink(./7ad874fbc0f324d7da879983ad3cfe80.pl): No such file or directory in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/yhdwzbwq.php on line 63
+[10-Aug-2023 08:44:18 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/7ad874fbc0f324d7da879983ad3cfe80.pl on line 93
+[07-Nov-2023 19:14:18 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/7ad874fbc0f324d7da879983ad3cfe80.pl on line 92
+[07-Nov-2023 19:14:18 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/7ad874fbc0f324d7da879983ad3cfe80.pl on line 92
+[07-Nov-2023 19:14:35 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/multqhsg.php(30) : eval()'d code(1) : eval()'d code on line 92
+[07-Nov-2023 19:14:37 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/multqhsg.php(30) : eval()'d code(1) : eval()'d code on line 92
+[18-Nov-2023 02:45:39 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/7ad874fbc0f324d7da879983ad3cfe80.pl on line 93
+[04-Jul-2024 10:50:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function Ocleó-rcdyW?¥'*ªKtvwç~lgÆUm-BS9ñ-e[oBHybBH-LlljG!qídy◊oe-∫K{vÕ-∞ldQek!LTìV+eUfIHyiKBÌea‹e˜() in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/multqhsg.php:30
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/assets/images/team-single/multqhsg.php on line 30

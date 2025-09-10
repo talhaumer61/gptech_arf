@@ -1,0 +1,16 @@
+[10-Oct-2023 01:31:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 1¡ðÝ47`7èf8c-aë434$5d0b2–e0>€6eëÑ6-b1k0() in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php:74
+Stack trace:
+#0 /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php(94): eo9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php on line 74
+[10-Oct-2023 01:37:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function j2aþí±7Ã7'8V8)() in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php:74
+Stack trace:
+#0 /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php(94): eo9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php on line 74
+[07-Nov-2023 19:15:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 8f(c-a†ø30 >ob²ÆE0803ed12-f1a0"4þ£4á˜8k(aô434d?n•bò?E08_ef1O-Æa0-4:c;!6Æ4cÁQ443Re5d=k25ª58@Ãif¹-`1a() in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php:74
+Stack trace:
+#0 /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php(94): eo9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php on line 74
+[02-Jan-2024 09:08:12 America/Chicago] PHP Fatal error:  Cannot redeclare nt8() (previously declared in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php:52) in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/templates/relation/ljgeiwcr.php on line 52

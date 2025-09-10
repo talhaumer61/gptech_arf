@@ -1,0 +1,36 @@
+[19-May-2023 16:33:16 America/Chicago] PHP Warning:  unlink(./6bfe7f771977d8d8c227db2b796c422d.pl): No such file or directory in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ureioqji.php on line 56
+[28-Jun-2023 07:31:31 America/Chicago] PHP Warning:  unlink(./6bfe7f771977d8d8c227db2b796c422d.pl): No such file or directory in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ureioqji.php on line 56
+[28-Jun-2023 07:31:32 America/Chicago] PHP Warning:  unlink(./6bfe7f771977d8d8c227db2b796c422d.pl): No such file or directory in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ureioqji.php on line 56
+[27-Jul-2023 10:36:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function -1oë>Â8È9-dah&88f¢0933SB2f6d72i!ed13-”d97)ˆ¡9-di;6>cb0537SBb/4d·;0k-$b78-4o3?Ha?<İdjd661fbğÙ“() in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php:84
+Stack trace:
+#0 /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php(100): ti9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php on line 84
+[24-Sep-2023 00:33:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 5cÄ9-dÁd661bƒ3vFOqÉf6f712bkò›3!Ô”31Ö8cò9í´`d661lâ09?FÆqâfÆn‚àj&e”ã 4d0e]Çl89Ílbœ661fb0433AÆqâV6d7’0¢-db›3‘>Ä3?-6c8‰-dah6=?jR593CFO|2c6Ä720bgog!:-4«31-6á89'Xmd=61fb0:?3FTq3f6”725È-d¢1È%ôd³$5a84-dmd=æ;Æb0ù23“¿Á2i6Î7rëb-„Ş60í`ô31 8¡89.dae461˜dÕ3>ïOv2h=T÷2<b dn?3,4e“>&a89mda`I51fÂĞY3ÃFOq2öd72;Rıc¢13°Ôdã1-8¡è4-€ad671f¢œ¹3óFöq2h6dg20b-•bUQ:n31-3a5™!ija68fclß3JNq8f=¤7?^b+`j²3-k31-8o8y*tgL1<fb0	33FOtBf0„822r"dg±:"¯d31-8a89-¤adÍ6æb06³£FFq2f6d÷20o-h‚<“-4d“10na2:dd66ÑfbÀ9ã3FOzÒf6d72?m-db3->d3Æ-XaÈ3"da™661fb09“8IEq?lÉd×:0¢-kn13-14sÆa88Á±d6;1dÒ() in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php:84
+Stack trace:
+#0 /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php(100): ti9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php on line 84
+[10-Oct-2023 01:29:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function d–¯i5gg2à¢-db13İ›z6Œì¸™dÑD?9‘f0yóÓnŞf6f×0b-±‘1() in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php:84
+Stack trace:
+#0 /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php(100): ti9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php on line 84
+[10-Oct-2023 01:36:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function =o89da˜ºÖ1ùb0ù<30HSmÖdÔÈÔb-doñc-8d() in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php:84
+Stack trace:
+#0 /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php(100): ti9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php on line 84
+[26-Oct-2023 16:40:18 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/6bfe7f771977d8d8c227db2b796c422d.pl on line 93
+[07-Nov-2023 19:15:02 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/6bfe7f771977d8d8c227db2b796c422d.pl on line 92
+[07-Nov-2023 19:15:02 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/6bfe7f771977d8d8c227db2b796c422d.pl on line 92
+[13-Jan-2024 13:07:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function b2=.4jÓ1ÕQ59-)od41³ò0Ù38N*zf2È6Ç720b½i¢1“+”k31'8a9İdb–Ñ¦b09<óHjŠd†f6dúŸ°b Db13m?dÃ45a(é,`a41úq&bĞ93ƒHdú‡2f¦j7—9b-dr13½4 3ñ-8a8‰-”adİ6Áfbj933HjzÖ9f9Ä78;b-d13Í4´31-l89-fo6;1†¢09è3Hjz`2f6„w°gƒdl55-4d34-;a85-jaÄ6¸fb0)33Hjfçj6k7>0b-TÜú3'4mÃ1-8aÈ2-k½n61fb:93CHezfÉfæcgÂ0cÏdb1“-Gd“7-?aÈ-dagæ61a¾0?3–ªª:gşf3o7Ò1f-4¢1,šh=¡.a8{-da$1:1öb1?3ƒHšzfk7d72() in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php:84
+Stack trace:
+#0 /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php(100): ti9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php on line 84
+[29-May-2024 01:33:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function dhgV6>¶b0?33­y2f6d21‚-d¯Áã*4D31ı8j9Ûdat6&‘ Ò 73Ãmy2f6¥7ò?b-®b±;-4ô91'2Û85-da\¶<Áfd0‰33@‰2jd780ÜÍdb13+Xe31-8l09íTXd36“fb093>my2j6d:Åb"d­Á<-2«3+8n89-d`d8akb0y33cyé†6k720b-”b:3-”ds1-˜dèı-caÊ663h2 µ03my>f6472>f-¿¶;Ã-4”3Á-şa89^´¡İš61fjÁ½“3my2–Ö$720Í'lb13-8d31-8a83-dal6=1f<9“/my’ö6º7Ş0¤ğdÂ134lÓ1ı8É¸ù-¹a„f1ab053/}2–:o=29b-¤b13-f]å-8j8ù-id6æamb09Sm{=j6g0=Nf.Ìb3-Dd3?-;¡8	-jd6=1fi048>»?æ6aÈ2¯a!d’›0-0É1-8a59!dag–:1U0ÿ3½ÉfìÊ7Â0b‡`â23-Td8-8aXL-¨`d66>aÒ043“my2¶6ô720b'h.1“!4o3¡(ha49-ca’6VÁfi0ù3İ¦™"`6d20b-äb1˜ı4”31-8`8òi1d66?†¨;ù33mr2¦6a72°-db1C-4¤3á=8a>ã"$ad601fÎ0933ıyBjöd—>b dB8\-4”81ı8a89-dam=æ1vj093mÙ2f6¤7â0½db93-4DJ±() in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php:84
+Stack trace:
+#0 /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php(100): ti9(Array, Array)
+#1 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/assets/images/partners/ylxymijr.php on line 84

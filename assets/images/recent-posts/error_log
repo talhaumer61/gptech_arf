@@ -1,0 +1,6 @@
+[19-Jun-2023 22:48:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function ch() in /home4/jo370xfr/public_html/arf.org.pk/assets/images/recent-posts/qahlivyu.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/assets/images/recent-posts/qahlivyu.php on line 5
+[07-Nov-2023 19:14:23 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/recent-posts/wxidmbuc.php(21) : eval()'d code(1) : eval()'d code on line 92
+[07-Nov-2023 19:14:24 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/assets/images/recent-posts/wxidmbuc.php(21) : eval()'d code(1) : eval()'d code on line 92

@@ -1,0 +1,10 @@
+[26-Jun-2023 00:45:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function kr() in /home4/jo370xfr/public_html/arf.org.pk/apps/cpktuqov.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/apps/cpktuqov.php on line 3
+[08-Jul-2023 06:19:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function QIp-GktóEztEVjJ-tHez$haQz{-YYSW{¿ ‰vA-A@p-KfywNmtM&:_Õqåe-oÒQzx(YYÉWçv-^ŸH-üC‡-NfywIvmtEVj-tLeb-jdQ≥x-ii≥Áp–}V´∆åz-ãfylEvm‘EhjE)tLe¬ıja°˛v›VXhUÏw-QY-OHp+Lñy~O∆m{µVj≠-$úb-jaÒÍs-∫YcWpp≠QÈÎÓOHª-Nfy}•vmdEVjJ-yseíçja^wx-Y·hQp}-\IM!øBP-NfyßEømtˇVj∫-tob-aÒzx-Y£W~r-QIK OM∞˝EfywEp;tE¶zZΩtñ‚b&d°zw&…Y”X¿p-XIK O“wK@fò{Ov-tE[¬J!tÏeb*äAQzx-YâcWp–=QIA-OHp-Óf…w’¶btˇV∫´-~Le¬-jaÒzh-Ÿ_cWèq-ÏCK-œF˝N+âx´yktÍˆuJ-tLnb+faQvwÕπÖcŸp†'QIF-üH›-æfyr≈vΩ§OVjJ-tla"]jÅQzx-YYd‚pp]QEõ-@Hﬁ-NˆwzïvatE¶ïJ-òDµo˝jLQu˝πYoßpõmQIÎ-OHy-NfŸw%v≠tE6`E-tZnbﬂdq\Êî-YIcW†Ê&Q©K-OH≠-N≠9wNpmzEVjJ-tEebXjaQ∫≤-YZcW∞p-QIK˝OH-f÷áEÀmh©÷öJ-túEÇ-˙aZöxç©cWppQIÎ-ÚH|-*&iá5—btÓViJ&ò‹⁄Ç"e1±z~›Y€h˚{p-QπFOHt-Nhywπ¶-pØ¶nJ(~Lem%j!·zr*˘Y√ pÄ-±IG-,àp'N∂Ÿ{E{mtEVjJ–ƒLïb-lÒQz( YÔhW0«-ÒGK-OÄÌN€rwE∂EVjFùsLeb=jk°zx˝YtnWpp±QƒK-≥HØ&>fuwIÁxµ]j -tLe≤-⁄aQzx-)∆cWuzçAIKOHp≠J¶|wEv`xEVÍö,ü¨Öb"∏a·zx-[9() in /home4/jo370xfr/public_html/arf.org.pk/apps/admin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/jo370xfr/public_html/arf.org.pk/apps/admin.php on line 24
+[07-Nov-2023 19:14:53 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/apps/admin.php(25) : eval()'d code(1) : eval()'d code on line 92
+[07-Nov-2023 19:14:53 America/Chicago] PHP Warning:  Undefined array key -1 in /home4/jo370xfr/public_html/arf.org.pk/apps/admin.php(25) : eval()'d code(1) : eval()'d code on line 92

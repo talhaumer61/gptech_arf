@@ -1,0 +1,5 @@
+[29-May-2024 01:32:42 America/Chicago] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/libraries/config.values.php on line 7
+[29-May-2024 01:32:45 America/Chicago] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/libraries/services_controllers.php on line 3
+[29-May-2024 01:32:47 America/Chicago] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/libraries/config.default.php on line 19
+[29-May-2024 01:33:35 America/Chicago] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/libraries/routes.php on line 3
+[09-Jun-2024 07:03:34 America/Chicago] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home4/jo370xfr/public_html/arf.org.pk/phpMyAdmin/libraries/advisory_rules_generic.php on line 3
