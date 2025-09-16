@@ -1,10 +1,8 @@
 <?php
-if(isset($_POST['submit_my_donations'])){
-    $sqllms = $dblms->querylms("SELECT id, fullname, dated, amount, cnic
-                                FROM ".DONATIONS." WHERE cnic = '".$_POST['cnic']."' 
+    $sqllms = $dblms->querylms("SELECT id, dated, amount
+                                FROM ".DONATIONS." WHERE id_donor = '".$_SESSION['userlogininfo']['DONORID']."' 
                                 ORDER BY dated DESC
                             ");
-}
 echo'
 <style>
 label{
@@ -73,7 +71,8 @@ label{
                 </div>
             </div>
         </div>
-
+        ';
+        /*
         <div class="contact-form-area">
             <div class="row">
                 <div class="col col-md-12">
@@ -91,59 +90,56 @@ label{
                     </div>
                 </div>
             </div>
-        </div>
+        </div>';
+        */
+        echo'
     </div>';
-    if(isset($_POST['submit_my_donations'])){
     if (mysqli_num_rows($sqllms) > 0) {
-    echo '
-    <div class="container" style="margin-top: 50px;">
-        <div class="row">
-            <div class="col col-md-12">
-                <div class="section-title-s3">
-                    <span>#My Donations Details</span>
-                    <h2>Your Donations Details</h2>
-                </div>
-                <div class="contact-form-area">
-                    <div class="row">
-                        <div class="col col-md-12">
-                            <div class="contact-form">
-                                <table class="table table-bordered">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">#</th>
-                                            <th scope="col">Full Name</th>
-                                            <th scope="col">CNIC</th>
-                                            <th scope="col">Date</th>
-                                            <th scope="col">Amount (PKR)</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>';
-                                        $counter = 1;
-                                        while ($donation = mysqli_fetch_assoc($sqllms)) {
-                                            echo '
+        echo '
+            <div class="container" style="margin-top: 50px;">
+                <div class="row">
+                    <div class="col col-md-12">
+                        <div class="section-title-s3">
+                            <span>#My Donations Details</span>
+                            <h2>Your Donations Details</h2>
+                        </div>
+                        <div class="contact-form-area">
+                            <div class="row">
+                                <div class="col col-md-12">
+                                    <div class="contact-form">
+                                        <table class="table table-bordered">
+                                            <thead>
                                                 <tr>
-                                                    <th scope="row">'.$counter++.'</th>
-                                                    <td>'.$donation['fullname'].'</td>
-                                                    <td>'.$donation['cnic'].'</td>
-                                                    <td>'.$donation['dated'].'</td>
-                                                    <td>'.$donation['amount'].'</td>
-                                                </tr>';
-                                        }
+                                                    <th scope="col">#</th>
+                                                    <th scope="col">Date</th>
+                                                    <th scope="col">Amount (PKR)</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>';
+                                                $counter = 1;
+                                                while ($donation = mysqli_fetch_assoc($sqllms)) {
+                                                    echo '
+                                                        <tr>
+                                                            <th scope="row">'.$counter++.'</th>
+                                                            <td>'.$donation['dated'].'</td>
+                                                            <td>'.$donation['amount'].'</td>
+                                                        </tr>';
+                                                }
 
-                                        echo '
-                                    </tbody>
-                                </table>
+                                                echo '
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>';
+        ';
     } else {
         echo '<h1 class="text-center text-danger p-3 rounded">No donations found!</h1>';
     }
-}
     echo'
 </section>';
 ?>

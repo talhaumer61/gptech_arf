@@ -50,7 +50,13 @@ echo'
                             <li><a href="'.SITE_URL.'contact">Contact Us</a></li>
                             <li><a href="'.SITE_URL.'categories">Donations</a></li>
                             <li><a href="'.SITE_URL.'team">Meet team</a></li>
-                            <li><a href="'.SITE_URL.'my-donations">My Donations</a></li>
+                            <li><a href="'.SITE_URL.'my-donations">My Donations</a></li>';
+                            if (isset($_SESSION['userlogininfo']['LOGINIDA'])) {
+                                echo'<li><a href="'.SITE_URL.'index.php?logout=true">Logout</a></li>';
+                            } else {
+                                echo'<li><a href="'.SITE_URL.'login">Login</a></li>';
+                            }
+                            echo'
                         </ul>
                         <ul>
                             <li><a href="'.SITE_URL.'projects">Projects</a></li>
